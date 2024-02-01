@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new and exciting projects.
 - 📫 How to reach me...here!
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: Anyone can learn something new.
+- ⚡ Fun fact: Anyone can learn something new
 
 <!---
 JenniNick-1202/JenniNick-1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
